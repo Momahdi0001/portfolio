@@ -8,6 +8,13 @@
 در کنار تحلیل مشتریان، عملکرد دو رویکرد متفاوت SQL ارزیابی شد تا مشخص شود آیا اتصال جدول سفارش‌ها به جدول جزئیات سفارش برای محاسبه شاخص‌های RFM ضروری است یا می‌توان همان نتیجه را با کوئری ساده‌تر و منابع پردازشی کمتر به دست آورد.
 
 ---
+## اسکریپت ها
+1. [RFM_Calculation_use_JOIN.sql](https://github.com/Momahdi0001/portfolio/blob/main/Data_Analyst/RFM_Analysis_%26_Customer_Segmentation/02.RFM_Calculation_use_JOIN.sql)
+2. [RFM_Calculation.sql](https://github.com/Momahdi0001/portfolio/blob/main/Data_Analyst/RFM_Analysis_%26_Customer_Segmentation/03.RFM_Calculation.sql)
+3. [Window_Functions.sql](https://github.com/Momahdi0001/portfolio/blob/main/Data_Analyst/RFM_Analysis_%26_Customer_Segmentation/04.Window_Functions.sql)
+4. [RFM_Segmentation.sql](https://github.com/Momahdi0001/portfolio/blob/main/Data_Analyst/RFM_Analysis_%26_Customer_Segmentation/05.RFM_Segmentation.sql)
+
+---
 
 ## مسئله کسب‌وکار
 
