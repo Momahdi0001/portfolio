@@ -72,3 +72,23 @@ Discount_raw:
 ShippingCost_raw:
 271,452
 262703 تومان
+```
+
+---
+
+## داشبرد
+
+
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/2c74ac47-72c0-4723-9483-5519f48322c8" />
+
+---
+
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/61d47a6f-f9fb-426b-88e5-fd37b80e8220" />
+
+---
+
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/fe220647-7c51-412e-8cbb-5e373e652953" />
+
+---
+
+<img width="975" height="609" alt="image" src="https://github.com/user-attachments/assets/3564bd83-0e5a-460a-84e0-fa44a9b80098" />
